@@ -1,5 +1,3 @@
-## Getting Started
+## Olá.
 
-Download links:
-
-SSH clone URL: ssh://git@git.jetbrains.space/estudante-projeto/cybersecurity/Lucas_Projeto.git
+Todas as informações do codigo disponivel no Arquivo.
